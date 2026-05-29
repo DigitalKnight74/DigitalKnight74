@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DigitalKnight74
+- 👋 Hi, I’m George Knight
 - 👀 I’m interested in Data Science, Python Programming, the Metaphysical, Dragons, and the Paranormal.
 - 🌱 I’m currently learning Data Science and Python...soon to start learning R.
 - 💞️ I’m looking to collaborate on I am willing to collaborate on pretty much anything. I am just wanting to learn how to be a decent programmer and a great Data Scientist.
